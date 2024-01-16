@@ -2,7 +2,7 @@
 Repository for the Winter 2024 Computational Social Science Workshop
 
 Time: 11:00 AM to 12:20 PM, Thursdays
-Location: 1155 E. 60th Street, Chicago IL 60637; Room 258
+Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
 **1/18** [Doug Gilbeault](https://haas.berkeley.edu/faculty/douglas-guilbeault/), University of California at Berkeley, Haas School of Business, Management of Organizations
 
