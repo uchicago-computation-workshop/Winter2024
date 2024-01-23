@@ -12,4 +12,7 @@ Each year, people spend less time reading and more time viewing images, which ar
 
 Pose your questions [here!](https://github.com/uchicago-computation-workshop/Winter2024/issues/1)
 
-**1/25** [Daniel Alabi](https://alabidan.me/)
+**1/25** [Daniel Alabi](https://alabidan.me/), Junior Fellow, Simons Society of Fellows
+Postdoctoral Researcher, Computer Science and Data Science, Columbia University
+
+**"Private Linear Regression"**. Some researchers and practitioners (including social scientists, political scientists, economists, and healthcare scientists) crucially rely on statistical methods to further the study of individuals, society, and human behavior via inferential analysis. Unfortunately, the naive application and release of resulting statistics could reveal sensitive information about the individuals in the dataset. As a result, differential privacy (DP) has been proposed as a strong definition of privacy that can prevent reconstruction, membership, and inference attacks. However, we are still in the nascent stages of understanding the statistical validity of DP methods. One of the most fundamental statistical techniques is linear regression, commonly used for predicting, testing, and augmenting relationships between two or more variables. In this talk, I will discuss my algorithmic and analytic contributions to private linear regression, showcasing the capabilities and limits of such methods in a range of settings.
