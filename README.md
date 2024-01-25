@@ -29,4 +29,10 @@ Each year, people spend less time reading and more time viewing images, which ar
 
 Pose your questions [here!](https://github.com/uchicago-computation-workshop/Winter2024/issues/1)
 
+__________________________________________________________________________________________________________________________
+
+Future weeks:
+
+[**Hyejin Youn**], Associate Professor of Management & Organization Department at the Kellogg School of Management, and a core faculty at NICO, the Northwestern Institute on Complex Systems.
+
 
