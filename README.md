@@ -4,6 +4,8 @@ Repository for the Winter 2024 Computational Social Science Workshop
 Time: 11:00 AM to 12:20 PM, Thursdays
 Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
+Sign up to meet over lunch, dinner, or small group settings with our speakers [**here**](https://docs.google.com/spreadsheets/d/18tySJ3FJ8zT8Sh8JW6SixkFsZCOMSZOqru8kVEzVQwo/edit?usp=sharing)
+
 **1/18** [Doug Gilbeault](https://haas.berkeley.edu/faculty/douglas-guilbeault/), University of California at Berkeley, Haas School of Business, Management of Organizations
 
 **"Online Images Amplify Gender Bias"**. This talk/paper, forthcoming at _Nature_ has the distinction of being significantly co-authored by a MACSS alumnus, Bhargav Srinivasa Desikan! Because its under embargo, I'll send the paper to student via the listserve. 
