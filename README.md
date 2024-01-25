@@ -6,7 +6,8 @@ Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
 Sign up to meet over lunch, dinner, or small group settings with our speakers [**here**](https://docs.google.com/spreadsheets/d/18tySJ3FJ8zT8Sh8JW6SixkFsZCOMSZOqru8kVEzVQwo/edit?usp=sharing)
 
-**2/1** [Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/) 
+**2/1** [Ágnes Horvát](https://agneshorvat.soc.northwestern.edu/), Professor of Communication and Computer Science at Northwestern University, where she directs the Technology and Social Behavior PhD program.  
+
 **How science is (mis)communicated in online media**. Most academics are promoting their work online. At the same time, the public, journalists, and interested governments increasingly turn to online platforms for scientific information. It thus becomes ever more critical that we better understand how science is disseminated in online news, social media, blogs and knowledge repositories. My talk will summarize our work about (1) how subsequently retracted articles receive outsized attention online, (2) how scientific publications spread on various types of online platforms, losing essential information, and (2) how gender impacts the coverage of scholarship. Our findings highlight detrimental heterogeneities in online science sharing. They inform efforts to curb the online spread of science-related misinformation and close gaps in scholars’ visibility. Consider the following 4 papers: [**1**](https://www.pnas.org/doi/10.1073/pnas.2119086119), [**2**](https://ojs.aaai.org/index.php/ICWSM/article/view/22153/21932), [**3**](https://www.pnas.org/doi/10.1073/pnas.2102945118), [**4**](https://arxiv.org/abs/2206.05330).
 
 Pose your questions [here!](https://github.com/uchicago-computation-workshop/Winter2024/issues/2)
