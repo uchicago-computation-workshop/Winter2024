@@ -6,6 +6,11 @@ Location: 1155 E. 60th Street, Chicago IL 60637; Room 295
 
 Sign up to meet over lunch, dinner, or small group settings with our speakers [**here**](https://docs.google.com/spreadsheets/d/18tySJ3FJ8zT8Sh8JW6SixkFsZCOMSZOqru8kVEzVQwo/edit?usp=sharing)
 
+**2/29** [Jeremy Birnholz](), is an
+
+**Self-Presentation in Sociotechnical Life: How We Present Ourselves to Each Other in a World of Digital Platforms**. Self-presentation, rooted in Goffman’s classic work, is the fundamental social process by which people shape their public personas and play the social roles (e.g., teacher, student, lesbian, doctor, etc.) that structure our everyday interactions. Today’s social platforms and communication technologies, however, complicate this process in ways that Goffman could never have anticipated. Specifically, the “physics” of how information moves in the environment have changed and can vary widely from platform to platform. And we lack a systematic framework for discussing these differences and how people cope with them (and their consequences). In this talk, I will discuss a book manuscript Michael Ann DeVito and I are working on to address this gap. I will give an overview of the framework, our focus in particular on LGBTQ+ populations, and how we can use this work to better understand and describe important social behavior in a range of online contexts. Paper available [**here**]().
+
+Pose your questions [**here!**](https://github.com/uchicago-computation-workshop/Winter2024/issues/7)
 
 **2/22** [Yingdan Lu](https://communication.northwestern.edu/faculty/yingdan-lu.html), is an Assistant Professor in the Department of Communication Studies at Northwestern University. Her research centers on digital technology, political communication, and authoritarian politics. In particular, her research explores: How do authoritarian governments (like China) use digital media and AI strategically to maintain their rule and what are the consequences? How do individual experiences vary with digital technology in different media environments and what are their impacts? 
 
